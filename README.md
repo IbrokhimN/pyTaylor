@@ -19,39 +19,39 @@ This package includes:
 ## Formulas Used
 
 ### 1. Sine
-\[
+$$
 \sin(x) \approx x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \frac{x^9}{9!}
-\]
+$$
 
 ### 2. Cosine
-\[
+$$
 \cos(x) \approx 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \frac{x^8}{8!}
-\]
+$$
 
 ### 3. Tangent
-\[
+$$
 \tan(x) \approx x + \frac{1}{3}x^3 + \frac{2}{15}x^5 + \frac{17}{315}x^7
-\]
+$$
 
 ### 4. Exponential
-\[
+$$
 e^x \approx 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \frac{x^4}{4!}
-\]
+$$
 
 ### 5. Natural Logarithm (ln)
-\[
+$$
 \ln(1+x) \approx x - \frac{x^2}{2} + \frac{x^3}{3} - \frac{x^4}{4} + \dots
-\]
+$$
 
 ### 6. Square Root
-\[
+$$
 \sqrt{1+x} \approx 1 + \frac{x}{2} - \frac{x^2}{8} + \frac{x^3}{16} - \frac{5x^4}{128} + \dots
-\]
+$$
 
 ### 7. Factorial (Stirling's Approximation)
-\[
+$$
 n! \approx \sqrt{2 \pi n} \left(\frac{n}{e}\right)^n \left( 1 + \frac{1}{12n} \right)
-\]
+$$
 
 ---
 
