@@ -69,6 +69,39 @@ print(factorial(10)) # approximate factorial
 
 You can also visualize the functions and compare them with Python's `math` library using `matplotlib` examples in the `examples/` folder.
 
+## Function Comparison Visualizations
+
+The following plots illustrate the comparison between the **Taylor series approximations** implemented in this package and the standard Python `math` library functions. These visualizations help to understand the accuracy and behavior of the approximations.
+
+### Sine Function
+![Sine Comparison](https://raw.githubusercontent.com/IbrokhimN/pyTaylor/refs/heads/main/imgs/sin_comparison.png)  
+*Comparison of `mymath.sin` vs `math.sin`.*
+
+### Cosine Function
+![Cosine Comparison](https://raw.githubusercontent.com/IbrokhimN/pyTaylor/refs/heads/main/imgs/cos_comparison.png)  
+*Comparison of `mymath.cos` vs `math.cos`.*
+
+### Tangent Function
+![Tangent Comparison](https://raw.githubusercontent.com/IbrokhimN/pyTaylor/refs/heads/main/imgs/tan_comparison.png)  
+*Comparison of `mymath.tan` vs `math.tan`.*
+
+### Exponential Function
+![Exponential Comparison](https://raw.githubusercontent.com/IbrokhimN/pyTaylor/refs/heads/main/imgs/exp_comparison.png)  
+*Comparison of `mymath.exp` vs `math.exp`.*
+
+### Natural Logarithm Function
+![Logarithm Comparison](https://raw.githubusercontent.com/IbrokhimN/pyTaylor/refs/heads/main/imgs/log_comparison.png)  
+*Comparison of `mymath.log` vs `math.log`.*
+
+### Square Root Function
+![Square Root Comparison](https://raw.githubusercontent.com/IbrokhimN/pyTaylor/refs/heads/main/imgs/sqrt_comparison.png)  
+*Comparison of `mymath.sqrt` vs `math.sqrt`.*
+
+---
+
+These plots demonstrate the effectiveness of Taylor series and classical approximations for common mathematical functions over typical ranges.
+
+
 ---
 
 ## License
