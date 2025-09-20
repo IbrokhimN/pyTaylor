@@ -1,7 +1,7 @@
-# Taylor-Math: Mathematical Functions via Taylor Series
+# pyTaylor: Mathematical Functions via Taylor Series
 
 ## Overview
-**Taylor-Math** is a Python package that implements common mathematical functions using **Taylor series** and other classical approximations. The goal is to study and visualize the behavior of mathematical functions through series expansions, rather than relying on built-in functions.
+**pyTaylor** is a Python package that explores classical mathematical functions through series expansions and analytical approximations. It aims to provide a research-oriented framework for studying, comparing, and visualizing functions like sine, cosine, exponential, logarithm, and square roots, highlighting the accuracy and convergence of Taylor series and other mathematical formulas.
 
 This package includes:
 - `sin(x)` – Sine function using Taylor series.
